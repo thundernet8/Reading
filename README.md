@@ -17,6 +17,9 @@
 ![https://book.douban.com/subject/26351021/](<https://img.shields.io/badge/2017.05.08%20-%20%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript(%E4%B8%8A%E5%8D%B7)-yellow.svg>)
 : [你不知道的 JavaScript（上卷）](https://book.douban.com/subject/26351021/)
 
-![https://book.douban.com/subject/26819950/](https://img.shields.io/badge/2017.11.25%20-%20Node.js%20Design%20Patterns%20Second%20Edition-green.svg)
+![https://book.douban.com/subject/26880667/](<https://img.shields.io/badge/2017.08%20-%20Java%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%C2%B7%E5%8D%B7%20I%20(E10)-yellow.svg>)
+: [Java 核心技术 · 卷 I](https://book.douban.com/subject/26880667/)
+
+![https://book.douban.com/subject/26819950/](https://img.shields.io/badge/2017.11%20-%20Node.js%20Design%20Patterns%20Second%20Edition-green.svg)
 :
 [Node.js Design Patterns - Second Edition](https://book.douban.com/subject/26819950/)
