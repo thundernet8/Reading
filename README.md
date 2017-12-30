@@ -23,3 +23,7 @@
 ![https://book.douban.com/subject/26819950/](https://img.shields.io/badge/2017.11%20-%20Node.js%20Design%20Patterns%20Second%20Edition-green.svg)
 :
 [Node.js Design Patterns - Second Edition](https://book.douban.com/subject/26819950/)
+
+![https://book.douban.com/subject/25768396/](https://img.shields.io/badge/2017.12%20-%20%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js-green.svg)
+:
+[深入浅出Node.js](https://book.douban.com/subject/25768396/)
